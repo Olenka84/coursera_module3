@@ -65,10 +65,11 @@ body {
 
 
 #menu-content {
-  margin: 30px; 
+  margin: 30px 5% 30px 5%; 
   padding: 20px; 
   background-color: #b2ffb2;
   color: #003400;
+  width: 90%;
 }
 
 
