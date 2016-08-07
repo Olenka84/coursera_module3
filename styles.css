@@ -1,6 +1,6 @@
 
 body {
-	font-size: 18px;
+  font-size: 18px;
   background-color: #e5ffe5;
 	font-family: "oxigen" , sans-serif; 
 }
@@ -65,8 +65,8 @@ body {
 
 
 #menu-content {
-  margin: 30px 30px 30px 30px;
-  padding: 20px 20px 20px 20px;
+  margin: 30px; 
+  padding: 20px; 
   background-color: #b2ffb2;
   color: #003400;
 }
